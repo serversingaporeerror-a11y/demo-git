@@ -1,6 +1,5 @@
-console.log("welcome to the git ");
-
-for(i=0;i<5;i++){
-    console.log("code");
+console.log("welcome to the git playlist ");
+for (i=0;i<5;i++){
+    console.log('yoki');
     
 }
